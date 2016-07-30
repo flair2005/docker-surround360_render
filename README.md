@@ -1,0 +1,1 @@
+Docker image with Facebook's Surround 360 render software. The software is capable of rendering 3d (stereo) 360 videos and photos, suitable for viewing in VR.
